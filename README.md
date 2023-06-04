@@ -13,5 +13,4 @@
 
 <h3>You can find me on social networks with the ID "aliaidany" ✨</h3>
 <br>
-<br>
 <h2 align="center">I hope you enjoy my projects 😊👌</h2>
