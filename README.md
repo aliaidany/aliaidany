@@ -1,5 +1,4 @@
-<h2 align="center"Hello 👋 I am Ali Aidany</h2>
-<h2 align="center"Hello 👋 I am Ali Aidany</h2>
+<h2 align="center">Hello 👋 I am Ali Aidany</h2>
 <h3>I am interested in computer world and I like to teach it to everyone 💻❤️</h3>
 
 <h4>🎓 The few skills I have and the tools I use :</h4>
