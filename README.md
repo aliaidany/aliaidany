@@ -15,6 +15,4 @@
 <br>
 <br>
 <br>
-<br>
-<br>
 <h2 align="center">I hope you enjoy my projects 😊👌</h2>
