@@ -11,4 +11,4 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
 
-<h2>♦ You can find me on social networks with the ID "aliaidany" ✨</h2>
+<h3>You can find me on social networks with the ID "aliaidany" ✨</h3>
