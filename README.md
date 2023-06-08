@@ -1,4 +1,4 @@
-<h2 align="center">Hello 👋 I am Ali Aidany <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1></h2>
+<h2 align="center">Hello I am Ali Aidany <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1></h2>
 <h3>I am interested in computer world and I like to teach it to everyone 💻❤️</h3>
 
 <h4>🎓 The few skills I have and the tools I use :</h4>
